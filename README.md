@@ -17,4 +17,7 @@
   </a>
 </p>
 
-
+<div align="center">
+  
+![snake gif](https://github.com/dmitriivahrushev/dmitriivahrushev/blob/output/github-snake-dark.svg)
+</div>
