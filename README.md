@@ -11,7 +11,7 @@
 # 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, git, github, postgres, pycharm, sqlite, selenium, vscode, " />
+    <img src="https://skillicons.dev/icons?i=py, git, github, postgres, pycharm, sqlite, selenium, vscode" />
   </a>
 </p>
 
