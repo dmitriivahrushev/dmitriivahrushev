@@ -8,7 +8,7 @@
 - 📚 Обучаюсь на направлении Data Engineering в Яндекс Практикум.<br>
 - 💼 Занимаюсь созданием учебных проектов.</p>
 
-# 💻 Stack
+# 🛠 Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
