@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,githubpages"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git, githubpages, postgresql, sqlite, python"
     />
   </a>
 </p>
