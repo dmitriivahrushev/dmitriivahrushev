@@ -8,10 +8,12 @@
 - 📚 Обучаюсь на направлении Data Engineering в Яндекс Практикум.<br>
 - 💼 Занимаюсь созданием учебных проектов.</p>
 
-# 💻 Tech Stack
+# 💻 Stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git, githubpages"
+    />
   </a>
 </p>
 
