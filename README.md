@@ -1,4 +1,4 @@
-<img src="/jpg/etl_pipline.jpg.jpg"/>
+<img src="/jpg/etl_pipline.jpg"/>
 </br>
 <h1 align="center">Всем привет!👋 Меня зовут Дмитрий!</h1>
 <h2 align="left">👩‍💻  О себе</h2>
