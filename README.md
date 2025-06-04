@@ -8,7 +8,7 @@
 - 🤖 Разработал Telegram-бота, который помогает оптимизировать управление отделом.<br>
 - 📚 Развиваю свои навыки в области Data Engineering.<br>
 
-# 🛠 Stack
+## 🛠 Stack
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
